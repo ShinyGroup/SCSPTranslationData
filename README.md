@@ -13,8 +13,8 @@
 ## 获取原文
 
 - 前往 [DumpData](https://github.com/chinosk6/SCSPTranslationData/tree/DumpData) 分支寻找
-- 或者自行 Dump（推荐）
-  - [DumpData](https://github.com/chinosk6/SCSPTranslationData/tree/DumpData) 分支可能更新不及时。若未在此分支找到你想翻译的内容，可以尝试自行 Dump。
+- 或者[自行 Dump](https://github.com/chinosk6/scsp-localify#%E8%87%AA%E8%A1%8C-dump-%E5%8E%9F%E6%96%87)（推荐）
+  - [DumpData](https://github.com/chinosk6/SCSPTranslationData/tree/DumpData) 分支可能更新不及时。若未在此分支找到你想翻译的内容，可以尝试[自行 Dump](https://github.com/chinosk6/scsp-localify#%E8%87%AA%E8%A1%8C-dump-%E5%8E%9F%E6%96%87)。
 
 
 
