@@ -33,13 +33,13 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- |
 | `scsp_localify`/`local2.json`                                | 全部                                                         | -              |
 | `scsp_localify`/`localify.json`                              | `mlMaintenance_TextFormatTile`<br>`mlMenu_Button`<br>`mlMenu_Header` | 其它部分未翻译 |
-| `scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_01.json`<br>``scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_02.json`` | 全部                                                         | -              |
+| `scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_01.json`<br>`scsp_localify`/`scenario`/`s40`/`04040000`/`s40_04040000_02.json` | 全部                                                         | -              |
 
 
 
 
 
 # 贡献者（GitHub）
-<a href="https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chinosk6/SCSPTranslationData" />
+<a href="https://github.com/ShinyGroup/SCSPTranslationData/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ShinyGroup/SCSPTranslationData" />
 </a>
